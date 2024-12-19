@@ -13,6 +13,7 @@ export default {
         foreground: "var(--foreground)",
         "dark-purple": "#5C4D84",
         "dark-gray": "#3C3C3C",
+        "light-purple": "#F1EAFF",
       },
       fontFamily: {
         body: ['"Libre Franklin"'],

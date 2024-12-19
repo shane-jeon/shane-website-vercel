@@ -1,6 +1,7 @@
 import Nav from "./components/Nav";
 import Hero from "./components/Hero";
 import Experience from "./components/Experience";
+import Project from "./components/Project";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <h2 className="mt-10">-Shane J.</h2>
       <Hero />
       <Experience />
+      <Project />
     </div>
   );
 }
