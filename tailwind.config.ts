@@ -11,6 +11,8 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        "dark-purple": "#5C4D84",
+        "dark-gray": "#3C3C3C",
       },
       fontFamily: {
         body: ['"Libre Franklin"'],
